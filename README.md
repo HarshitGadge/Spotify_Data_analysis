@@ -1,2 +1,2 @@
-# Spotify_Data_analysis
-Exploratory Data Analysis performed on Spotify Dataset
+# Spotify Data Analysis
+This project delved into the world of music trends through in-depth EDA on the Spotify Dataset. By meticulously cleaning and visualizing the dataset, valuable insights emerged, including the correlation between different features. Notably, the visualization of year vs. song duration shed light on evolving musical preferences. These metrics-driven findings equip the music industry with actionable intelligence for informed decisions, enriching artists' strategies and aiding music platforms in tailoring user experiences.
